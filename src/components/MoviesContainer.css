@@ -1,0 +1,5 @@
+.movies-container {
+    border: solid 2px blue;
+    display: flex;
+    padding: 20px;
+}

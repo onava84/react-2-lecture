@@ -1,0 +1,7 @@
+.movies-list {
+    border: solid 2px violet;
+    width: 40vw;
+    padding: 15px;
+    height: 80vh;
+    overflow-y: scroll;
+}
